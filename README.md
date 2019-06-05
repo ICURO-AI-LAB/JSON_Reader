@@ -3,12 +3,13 @@ Read bounding box data from json created by VIA annotation tool and convert it t
 
 ## Usage
 
-Run as python script:
+* Run as python script:
 ```bash
 python read_json_annotation.py <json file> <image directory> <save directory>
 ```
-**OR** 
-Create executable using:
+**OR**
+<br/>
+* Create executable using:
 ```bash
 chmod +x read_json_annotation.py
 ```
