@@ -7,7 +7,8 @@ Run as python script:
 ```bash
 python read_json_annotation.py <json file> <image directory> <save directory>
 ```
-or create executable using:
+**OR** 
+Create executable using:
 ```bash
 chmod +x read_json_annotation.py
 ```
