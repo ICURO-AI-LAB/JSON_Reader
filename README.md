@@ -1,5 +1,5 @@
 # JSON_Reader
-Read bounding box data from json created by VIA annotation tool and convert it to YOLO format
+Read bounding box data from json created by [VIA](http://www.robots.ox.ac.uk/~vgg/software/via/) annotation tool and convert it to [Darknet YOLO](https://pjreddie.com/darknet/yolo/) format
 
 ## Usage
 
