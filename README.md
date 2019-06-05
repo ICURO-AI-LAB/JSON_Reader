@@ -16,7 +16,7 @@ and run executable:
 ./read_json_annotation.py <json file> <image directory> <save directory>
 ```
 
-### Nomenclature
+### Arguments
 * **json file**       : .json file with bounding box annotation data
 * **image directory** : directory containing all images referenced in the .json file
 * **save directory**  : directory in which renamed images and YOLO annotation files in '.txt' format will be saved
